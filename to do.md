@@ -11,12 +11,12 @@ o    Angriff
 
 o    Fähigkeiten
 
-
+</br>
 Mausklick
 
 o    Um etwas im Inventar zu aktivieren
 
-
+</br>
 
 Umgebungserkennung
 
@@ -27,8 +27,8 @@ o    Reagieren auf eine Veränderung des Farbwertes
 o    Screenshot Erstellung
 
 ·         Automatischer Relog bei kick ?
-
- 
+</br>
+ </br>
 
 **NN:**
 
