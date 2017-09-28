@@ -8,10 +8,15 @@ Quick command guide:
 --> git push            #upload those changes onto the
 
 To download from this pack use git:
-first enter: git clone "link from here"
+first enter: git clone https://github.com/KilerMaxi/Pythonbot.git
 
 then it should clone the folder
 with "cd Pythonbot" you can enter the folder
+
+if you added something new localy first use:
+git add .
+the . means you add everything otherwise commit
+won't recognize your changes
 
 now change something or add something when you 
 are done enter into the git console:
@@ -32,6 +37,7 @@ If you want the latest version use:
 git push
 
 ---------TIPS------------
+
 If you find yourself stuck in a editor just press
 ESC and enter :wq and press Enter. This happens
 when you don't add -m onto your commit.
