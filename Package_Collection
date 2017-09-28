@@ -1,0 +1,10 @@
+#Package Collection
+
+Here are some packages for python which are very usefull and can all be installed with pip:
+Just use: "pip install package-name"
+
+* matplotlib
+* numpy
+* pillow
+* opencv
+* pypiwin32
