@@ -3,7 +3,7 @@ To do's:
 
 **Python:**
 
-Tasteneingaben
+Tasteneingaben **(Sebi)**
 
 o    Bewegungsrichtung
 
@@ -18,7 +18,7 @@ o    Um etwas im Inventar zu aktivieren
 
 </br>
 
-Umgebungserkennung
+Umgebungserkennung **(Maxi)**
 
 o    Erkennung eines bestimmten Farbwertes
 
