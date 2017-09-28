@@ -11,11 +11,14 @@ o    Angriff
 
 o    Fähigkeiten
 
+
 Mausklick
 
 o    Um etwas im Inventar zu aktivieren
 
-·         Umgebungserkennung
+
+
+Umgebungserkennung
 
 o    Erkennung eines bestimmten Farbwertes
 
