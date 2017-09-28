@@ -34,7 +34,7 @@ to upload everything to the server.
 Now your done.
 
 If you want the latest version use:
-git push
+git pull
 
 ---------TIPS------------
 
