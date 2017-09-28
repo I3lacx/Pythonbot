@@ -1,10 +1,11 @@
 # Pythonbot
 From nothing to a bot for games
 
-Summary:
---> git pull
---> git commit -a -m "my comment"
---> git push
+Quick command guide:
+--> git pull            #to update your local files
+--> git add .           #to add new created files or directories
+--> git commit -a -m "my comment"     #to save new changes (local)
+--> git push            #upload those changes onto the
 
 To download from this pack use git:
 first enter: git clone "link from here"
@@ -29,6 +30,7 @@ Now your done.
 
 If you want the latest version use:
 git push
+
 ---------TIPS------------
 If you find yourself stuck in a editor just press
 ESC and enter :wq and press Enter. This happens
