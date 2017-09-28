@@ -26,7 +26,8 @@ o    Reagieren auf eine Veränderung des Farbwertes
 
 o    Screenshot Erstellung
 
-·         Automatischer Relog bei kick ?
+</br>
+Automatischer Relog bei kick ?
 </br>
  </br>
 
