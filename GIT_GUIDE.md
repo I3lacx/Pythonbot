@@ -1,10 +1,10 @@
 # <b> GIT GUIDE </b>
 
 Quick command guide:
-* --> git pull            #to update your local files
-* --> git add .           #to add new created files or directories
-* --> git commit -a -m "my comment"     #to save new changes (local)
-* --> git push            #upload those changes onto the
+* git pull            #to update your local files
+* git add .           #to add new created files or directories
+* git commit -a -m "my comment"     #to save new changes (local)
+* git push            #upload those changes onto the
 
 To download from this pack use git:
 first enter: git clone https://github.com/KilerMaxi/Pythonbot.git
