@@ -1,7 +1,7 @@
 To do's:
 
 
-Python:
+**Python:**
 
 Tasteneingaben
 
@@ -27,7 +27,7 @@ o    Screenshot Erstellung
 
  
 
-NN:
+**NN:**
 
 ·         Erstellen von Screenshots zum Training des NN
 
