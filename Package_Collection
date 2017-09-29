@@ -6,5 +6,5 @@ Just use: "pip install package-name"
 * matplotlib
 * numpy
 * pillow
-* opencv
+* opencv-python
 * pypiwin32
